@@ -4,9 +4,6 @@ import {
     FaInstagram,
     FaLinkedin,
     FaFacebook,
-    FaPhone,
-    FaEnvelope,
-    FaMapMarkerAlt,
 } from 'react-icons/fa'
 
 const Footer = () => {
