@@ -70,7 +70,6 @@ const ContactPage = () => {
             <label className="block text-brown-700">Message</label>
             <textarea
               className="w-full p-2 border border-gold-500 rounded-lg bg-brown-50"
-              rows="4"
               placeholder="Your Message"
             ></textarea>
           </div>
